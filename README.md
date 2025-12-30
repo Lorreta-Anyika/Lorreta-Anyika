@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lorreta</h1>
-<h3 align="center">Empowering the next generation of data storytellers | Data Engineer</h3>
+<h1 align="center">Hi👋, Lorreta here</h1>
+<h3 align="center">I'm a Data Engineer</h3>
 
 <p align="center">I design and build scalable, reliable and resilient data pipelines, share what I learn, and tell stories with words.</p>
 
