@@ -17,16 +17,16 @@ I am an early-career Data Engineer focused on building reliable, well-structured
 
 ## Skills & Tools
 
-**Python (advanced):** Machine Learning, Data analysis (Pandas, NumPy, Scikit-learn), visualization (Matplotlib, Plotly), 
+- **Python (advanced):** Machine Learning, Data analysis (Pandas, NumPy, Scikit-learn), visualization (Matplotlib, Plotly), 
 computer vision (OpenCV, Scikit-Image), web apps (Streamlit, Flask) 
-**R Programming (beginner):** Data manipulation (dplyr, tidyr), statistical analysis, visualization (ggplot2), R Markdown. 
-**Database Management and modelling:** dbt, PostgreSQL, MySQL, data cleaning, querying, joins, aggregation. 
-**AWS & Cloud Platforms (Beginner):** EC2, S3, cloud-based workflow deployment. 
-**Excel & SPSS (advanced):** dashboarding, visualization, statistical testing. 
-**Bash & Linux (beginner):** Shell scripting for automation. 
-**Containerization and ETL/ELT:** Docker 
-**HTML, CSS, JavaScript (beginner):** Front-end development for interactive web applications. 
-**Version Control and CI/CD (intermediate):** Github
+- **R Programming (beginner):** Data manipulation (dplyr, tidyr), statistical analysis, visualization (ggplot2), R Markdown. 
+- **Database Management and modelling:** dbt, PostgreSQL, MySQL, data cleaning, querying, joins, aggregation. 
+- **AWS & Cloud Platforms (Beginner):** EC2, S3, cloud-based workflow deployment. 
+- **Excel & SPSS (advanced):** dashboarding, visualization, statistical testing. 
+- **Bash & Linux (beginner):** Shell scripting for automation. 
+- **Containerization and ETL/ELT:** Docker 
+- **HTML, CSS, JavaScript (beginner):** Front-end development for interactive web applications. 
+- **Version Control and CI/CD (intermediate):** Github
 
 ---
 
