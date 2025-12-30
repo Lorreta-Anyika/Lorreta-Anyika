@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lorreta</h1>
-<h3 align="center">Empowering the next generation of data storytellers | Data Analyst, Trainer & Communicator</h3>
+<h3 align="center">Empowering the next generation of data storytellers | Data Engineer</h3>
 
-<p align="center">I dig deep into data, share what I learn, and tell stories with words.</p>
+<p align="center">I design and build scalable, reliable and resilient data pipelines, share what I learn, and tell stories with words.</p>
 
 ---
 
 ## About Me
 
-I manage virtual data analytics trainings at Algorithmic Explorers and ALU DATATOK, teaching real-world data tools like Excel, SQL, Python, and SPSS to bridge the gap between theory and practice for 50+ students. My mission: help people see the story behind the stats.
-
-I combine technical expertise with strong communication and leadership skills—honed through essay competitions, project management, and remote IT support roles. Whether I’m teaching, analyzing, or writing, my goal is simple: make data accessible and impactful.
-
-- **Currently deepening:** SQL, Python, Machine Learning  
-- **Open to:** Collaborating on data training, data journalism, IT support  
+I am an early-career Data Engineer focused on building reliable, well-structured data systems that support analytics, reporting, and decision-making. My experience spans working with structured and semi-structured data, writing efficient SQL and Python for data transformation, and preparing datasets that are ready for downstream use.  
 - **Read my stories:** [The ALU DATATOK Brief](https://www.linkedin.com/newsletters/the-alu-datatok-brief-7324717932364623872/)  
 - **Contact me:** anyikauche001@gmail.com  
 - **Resume:** [View here](https://drive.google.com/file/d/1HlDan8tcPbh9x1ed1Dc0wb2vlT_eb-ZQ/view?usp=drivesdk)  
@@ -20,21 +15,18 @@ I combine technical expertise with strong communication and leadership skills—
 
 ---
 
-## Featured Projects & Achievements
-
-- **Algorithmic Explorers:** Led hands-on data analytics training for 5+ students, focusing on real-world applications.
-- **ALU DATATOK:** Developed and delivered curriculum for 50+ students, integrating Excel, SPSS, and SQL.
-- **Data Storytelling:** Published 20+ data stories, making analytics engaging and accessible.
-
----
-
 ## Skills & Tools
 
-**Languages:** Python, SQL, HTML, CSS  
-**Data & ML:** Advanced Excel, Pandas, Scikit-learn, TensorFlow, SPSS  
-**Databases:** MySQL, PostgreSQL, MongoDB, MSSQL  
-**Visualization:** Excel, Seaborn, Tableau, Power BI  
-**Other:** Git, Photoshop, Slack, Discord, CRM platforms
+**Python (advanced):** Machine Learning, Data analysis (Pandas, NumPy, Scikit-learn), visualization (Matplotlib, Plotly), 
+computer vision (OpenCV, Scikit-Image), web apps (Streamlit, Flask) 
+**R Programming (beginner):** Data manipulation (dplyr, tidyr), statistical analysis, visualization (ggplot2), R Markdown. 
+**Database Management and modelling:** dbt, PostgreSQL, MySQL, data cleaning, querying, joins, aggregation. 
+**AWS & Cloud Platforms (Beginner):** EC2, S3, cloud-based workflow deployment. 
+**Excel & SPSS (advanced):** dashboarding, visualization, statistical testing. 
+**Bash & Linux (beginner):** Shell scripting for automation. 
+**Containerization and ETL/ELT:** Docker 
+**HTML, CSS, JavaScript (beginner):** Front-end development for interactive web applications. 
+**Version Control and CI/CD (intermediate):** Github
 
 ---
 
