@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, Lorreta here</h1>
+<h1 align="center">Hi there👋, welcome to my space</h1>
 <h3 align="center">I'm a Data Engineer</h3>
 
 <p align="center">I design and build scalable, reliable and resilient data pipelines, share what I learn, and tell stories with words.</p>
