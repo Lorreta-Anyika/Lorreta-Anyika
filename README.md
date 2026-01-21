@@ -8,7 +8,7 @@
 ## About Me
 
 I am an early-career Data Engineer focused on building reliable, well-structured data systems that support analytics, reporting, and decision-making. My experience spans working with structured and semi-structured data, writing efficient SQL and Python for data transformation, and preparing datasets that are ready for downstream use.  
-- **Read my stories:** [The ALU DATATOK Brief](https://www.linkedin.com/newsletters/the-alu-datatok-brief-7324717932364623872/)  
+- **Read my stories:** [The ALU DATATOK Brief](https://www.linkedin.com/newsletters/the-alu-datatok-brief-7324717932364623872/)  || [Medium](https://medium.com/@anyikauche001)
 - **Contact me:** anyikauche001@gmail.com  
 - **Resume:** [View here](https://drive.google.com/file/d/1HlDan8tcPbh9x1ed1Dc0wb2vlT_eb-ZQ/view?usp=drivesdk)  
 - **Fun fact:** If you care about quality, I’m in your circle!
